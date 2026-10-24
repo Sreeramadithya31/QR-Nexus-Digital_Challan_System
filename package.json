@@ -1,0 +1,16 @@
+{
+  "name": "qr-nexus-digital-challan",
+  "version": "1.0.0",
+  "description": "Educational QR-linked digital challan prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "qrcode": "^1.5.4",
+    "sqlite3": "^5.1.7"
+  }
+}\n
